@@ -1,6 +1,6 @@
 # VPC
 
-# VPC Setup Project README
+# VPC Setup Project 
 
 ## Project Overview
 
@@ -9,8 +9,8 @@ This project demonstrates the setup and configuration of a Virtual Private Cloud
 ## Project Structure
 
 - **CFK (temp converter)**: Contains the application code for a temperature converter web app.
-    - `temp.html`: HTML file containing the code for the temperature converter application.
-
+    - [temp.html](CFK/temp.html): HTML file containing the code for the temperature converter application.
+      
 ## Detailed Setup Steps
 
 ### 1. VPC Creation and Subnet Configuration
@@ -42,7 +42,7 @@ This project demonstrates the setup and configuration of a Virtual Private Cloud
 
 ### 6. Application Deployment
 
-- **Step 1:** Clone or download the `temp.html` file from the provided link: [CFK/temp.html](link-to-your-app-code).
+- **Step 1:** Clone or download the `temp.html` file from the provided link: [temp.html](CFK/temp.html)
 - **Step 2:** Deploy the `temp.html` file to the instances or a suitable server within the VPC.
 - **Step 3:** Test the application functionality by accessing it through the load balancer DNS or the instance's public IP address.
 
@@ -53,6 +53,5 @@ This project demonstrates the setup and configuration of a Virtual Private Cloud
 
 ## Conclusion
 
-This README provides a comprehensive guide to setting up the VPC environment and deploying the temperature converter web application. Follow the outlined steps for successful deployment and testing.
+This README provides a comprehensive guide to setting up the VPC environment and deploying the temperature converter web application. 
 
-For further assistance or inquiries, contact [Your Contact Information].
